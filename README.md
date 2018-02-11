@@ -8,6 +8,17 @@
 
 Из этого курса вы узнаете об алгоритмах кластеризации данных, с помощью которых, например, можно искать группы схожих клиентов мобильного оператора. Вы научитесь строить матричные разложения и решать задачу тематического моделирования, понижать размерность данных, искать аномалии и визуализировать многомерные данные.
 
+## Теория
+[1. Введение в кластеризацию](https://github.com/dzisandy/ML_Mipt_3_course/blob/master/week1/1-1.Vvedenie_v_klasterizaciyu.pdf)
+
+[2. Подробнее о методах кластеризации](https://github.com/dzisandy/ML_Mipt_3_course/blob/master/week1/1-2.Podrobnee_o_metodah_klasterizacii.pdf)
+
+[3. Понижение размерности и отбор признаков](https://github.com/dzisandy/ML_Mipt_3_course/blob/master/week2/2-1.Ponizhenie_razmernosti_i_otbor_priznakov.pdf)
+
+[4. Матричные разложения](https://github.com/dzisandy/ML_Mipt_3_course/blob/master/week2/2-2.Matrichnye_razlozheniya.pdf)
+
+to be continued...
+
 ## Ссылка на курс
 [Поиск структуры в данных](https://www.coursera.org/learn/unsupervised-learning/)
 
