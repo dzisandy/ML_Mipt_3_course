@@ -17,6 +17,8 @@
 
 [4. Матричные разложения](https://github.com/dzisandy/ML_Mipt_3_course/blob/master/week2/2-2.Matrichnye_razlozheniya.pdf)
 
+[5. Поиск аномалий](https://github.com/dzisandy/ML_Mipt_3_course/blob/master/week3/3-1.Poisk_anomalij.pdf)
+
 to be continued...
 
 ## Ссылка на курс
