@@ -19,6 +19,8 @@
 
 [5. Поиск аномалий](https://github.com/dzisandy/ML_Mipt_3_course/blob/master/week3/3-1.Poisk_anomalij.pdf)
 
+[6. Визуализация данных](https://github.com/dzisandy/ML_Mipt_3_course/blob/master/week3/3-2.Vizualizaciya_dannyh.pdf)
+
 to be continued...
 
 ## Ссылка на курс
