@@ -21,6 +21,8 @@
 
 [6. Визуализация данных](https://github.com/dzisandy/ML_Mipt_3_course/blob/master/week3/3-2.Vizualizaciya_dannyh.pdf)
 
+[7. Тематическое моделирование](https://github.com/dzisandy/ML_Mipt_3_course/blob/master/week4/4-1.Tematicheskoe_modelirovanie-1.pdf)
+
 to be continued...
 
 ## Ссылка на курс
