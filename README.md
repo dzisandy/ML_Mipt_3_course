@@ -23,12 +23,17 @@
 
 [7. Тематическое моделирование. Часть 1](https://github.com/dzisandy/ML_Mipt_3_course/blob/master/week4/4-1.Tematicheskoe_modelirovanie-1.pdf)
 
-[8. Тематическое моделирование. Часть 2.](https://github.com/dzisandy/ML_Mipt_3_course/blob/master/week4/4-1.Tematicheskoe_modelirovanie-2.pdf)
+[8. Тематическое моделирование. Часть 2.](https://github.com/dzisandy/ML_Mipt_3_course/blob/master/week4/4-2.Tematicheskoe_modelirovanie-2.pdf)
 
 ## Ссылка на курс
 [Поиск структуры в данных](https://www.coursera.org/learn/unsupervised-learning/)
 
 ## Обо мне
 * **Дзись Андрей** - *Стажер-исследователь ИППИ РАН* - [dzisandy](https://github.com/dzisandy)
+
+## Заметки
+1. Последняя неделя задача на программирование: непонятен вопрос 3 задания, выяснить причину, почему не засчитывает задачу.
+
+2. Доделать дополнительное задание последней недели.
 
 
