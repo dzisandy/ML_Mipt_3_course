@@ -21,9 +21,9 @@
 
 [6. Визуализация данных](https://github.com/dzisandy/ML_Mipt_3_course/blob/master/week3/3-2.Vizualizaciya_dannyh.pdf)
 
-[7. Тематическое моделирование](https://github.com/dzisandy/ML_Mipt_3_course/blob/master/week4/4-1.Tematicheskoe_modelirovanie-1.pdf)
+[7. Тематическое моделирование. Часть 1](https://github.com/dzisandy/ML_Mipt_3_course/blob/master/week4/4-1.Tematicheskoe_modelirovanie-1.pdf)
 
-to be continued...
+[8. Тематическое моделирование. Часть 2.](https://github.com/dzisandy/ML_Mipt_3_course/blob/master/week4/4-1.Tematicheskoe_modelirovanie-1.pdf)
 
 ## Ссылка на курс
 [Поиск структуры в данных](https://www.coursera.org/learn/unsupervised-learning/)
